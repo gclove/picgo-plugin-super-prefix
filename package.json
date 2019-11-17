@@ -1,6 +1,6 @@
 {
   "name": "picgo-plugin-super-prefix",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A PicGo plugin for elegant file name prefix",
   "main": "dist/index.js",
   "publishConfig": {
@@ -24,7 +24,6 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^10.10.1",
-    "dayjs": "^1.8.17",
     "eslint": "^5.0.1",
     "eslint-config-standard": "^11.0.0",
     "eslint-plugin-import": "^2.13.0",
@@ -35,5 +34,8 @@
     "tslint": "^5.10.0",
     "tslint-config-standard": "^7.1.0",
     "typescript": "^3.0.3"
+  },
+  "dependencies": {
+    "dayjs": "^1.8.17"
   }
 }
