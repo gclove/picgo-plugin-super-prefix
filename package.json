@@ -1,12 +1,12 @@
 {
   "name": "picgo-plugin-super-prefix",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A PicGo plugin for elegant file name prefix",
   "main": "dist/index.js",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "",
+  "homepage": "https://github.com/gclove/picgo-plugin-super-prefix#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p .",
